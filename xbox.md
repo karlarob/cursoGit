@@ -14,4 +14,10 @@
  * Halo II
 ----
 
+<<<<<<< HEAD
 se intenta crear un errorrrr
+=======
+
+
+Creee un nuevo cambio 
+>>>>>>> nuevoconflicto
